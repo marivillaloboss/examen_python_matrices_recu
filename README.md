@@ -6,8 +6,8 @@
 ## Modalidad Informática
 
 El objetivo del siguiente examen es evaluar los conocimientos de los alumnos acerca del funcionamiento y manejo de las matrices en Python.
-Para ello se toman 3 ejercicios de dicha temática, los cuales tienen que ser desarrollados en sus respectivas carpetas por cada alumno.
-Los mismos tendrán desde las 9:05 hasta las 10:30 para completar las tres consignas.
+Para ello se toma 1 ejercicio de dicha temática, el cual tiene que ser desarrollado en sus respectiva carpeta por cada alumno.
+Los mismos tendrán desde las 9:05 hasta las 10:30 para completar la consigna.
 
 También se evaluará parcialmente el uso de github, en el sentido que los alumnos, para entregar el examen, deben realizar un Fork de este
 repositorio y luego clonar su fork, realizar los cambios y hacer un push a su propio repositorio.
